@@ -109,6 +109,7 @@ Ejecutar tests:
 ## 📸 Evidencias
 <img width="1080" height="761" alt="image" src="https://github.com/user-attachments/assets/771db9e0-2f12-460e-a22f-8d496d54af1b" />
 
+<img width="1085" height="897" alt="image" src="https://github.com/user-attachments/assets/c7aa4fe3-a378-4bcb-a22c-0ae3a6a9366a" />
 
 ---
 
